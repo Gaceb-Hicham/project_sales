@@ -14,21 +14,21 @@ Generate random monthly sales data for 4 products over the year 2025, perform fu
 ---
 
 ### Project Structure
-project_sales/
+      project_sales/
 
-      ├── notebook.ipynb          ← Main analysis, pivot tables, visualizations & conclusion
+            ├── notebook.ipynb          ← Main analysis, pivot tables, visualizations & conclusion
 
-      ├── utils.py                ← Data generation + building final DataFrame (initial.csv & final.csv)
+            ├── utils.py                ← Data generation + building final DataFrame (initial.csv & final.csv)
 
-       ├── README.md               ← This file
+            ├── README.md               ← This file
 
-      └── data/
+            └── data/
 
-            ├── initial.csv         ← Raw generated data
+                  ├── initial.csv         ← Raw generated data
 
-            ├── final.csv           ← With all calculated columns (Total_Sales, MoM_Growth, Quarter, etc.)
+                  ├── final.csv           ← With all calculated columns (Total_Sales, MoM_Growth, Quarter, etc.)
 
-            └── output.csv          ← Pivot tables (average & total sales per quarter)
+                  └── output.csv          ← Pivot tables (average & total sales per quarter)
 
 
    
