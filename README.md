@@ -15,10 +15,9 @@ Generate random monthly sales data for 4 products over the year 2025, perform fu
 
 ### Project Structure
 project_sales/
+
 ├── notebook.ipynb          ← Main analysis, pivot tables, visualizations & conclusion
-
 ├── utils.py                ← Data generation + building final DataFrame (initial.csv & final.csv)
-
 ├── README.md               ← This file
 
 └── data/
