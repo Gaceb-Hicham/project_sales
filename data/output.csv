@@ -1,0 +1,14 @@
+   Average Sales per Quarter 
+Quarter,Product_A,Product_B,Product_C,Product_D,Total_Sales
+Q1,67.333,48.333,38.0,36.333,190.0
+Q2,82.0,45.0,33.0,39.667,199.667
+Q3,80.667,59.667,36.333,36.0,212.667
+Q4,69.667,37.667,43.0,17.667,168.0
+
+
+  Total Sales per Quarter 
+Quarter,Product_A,Product_B,Product_C,Product_D,Total_Sales
+Q1,202,145,114,109,570
+Q2,246,135,99,119,599
+Q3,242,179,109,108,638
+Q4,209,113,129,53,504

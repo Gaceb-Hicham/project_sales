@@ -1,0 +1,13 @@
+Month,Product_A,Product_B,Product_C,Product_D,Total_Sales,Average_Sales,Month_Over_Month_Growth,Quarter,Max_Sales_Product,Min_Sales_Product
+January 2025,56,51,31,25,163,40.75,,Q1,Product_A,Product_D
+February 2025,58,45,57,45,205,51.25,0.2576687116564418,Q1,Product_A,Product_B
+March 2025,88,49,26,39,202,50.5,-0.014634146341463428,Q1,Product_A,Product_C
+April 2025,65,33,20,49,167,41.75,-0.1732673267326733,Q2,Product_A,Product_C
+May 2025,96,31,40,31,198,49.5,0.18562874251497008,Q2,Product_A,Product_B
+June 2025,85,71,39,39,234,58.5,0.18181818181818188,Q2,Product_A,Product_C
+July 2025,53,64,27,27,171,42.75,-0.2692307692307693,Q3,Product_B,Product_C
+August 2025,100,60,25,50,235,58.75,0.3742690058479532,Q3,Product_A,Product_C
+September 2025,89,55,57,31,232,58.0,-0.012765957446808529,Q3,Product_A,Product_D
+October 2025,81,34,30,14,159,39.75,-0.31465517241379315,Q4,Product_A,Product_D
+November 2025,53,31,48,25,157,39.25,-0.012578616352201255,Q4,Product_A,Product_D
+December 2025,75,48,51,14,188,47.0,0.197452229299363,Q4,Product_A,Product_D
