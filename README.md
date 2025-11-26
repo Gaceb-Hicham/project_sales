@@ -26,7 +26,7 @@ Generate random monthly sales data for 4 products over the year 2025, perform fu
 
                   ├── initial.csv         ← Raw generated data
 
-                  ├── final.csv           ← With all calculated columns (Total_Sales, MoM_Growth, Quarter, etc.)
+                  ├── final.csv           ← DataFrame With all calculated columns (Total_Sales, MoM_Growth, Quarter, etc.)
 
                   └── output.csv          ← Pivot tables (average & total sales per quarter)
 
